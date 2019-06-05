@@ -1,4 +1,9 @@
 // write your code below!
+
+let name ='you'
+let holiday ='Independence Day'
+let number =20;
+let 
 function happyHolidays(){
   return "Happy holidays!"
 }  
