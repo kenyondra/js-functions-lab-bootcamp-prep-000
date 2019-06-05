@@ -13,4 +13,5 @@ function holidayCountdown(holiday, days){
 }
 
 let name ='you'
-let 
+let holiday ='Independence Day'
+let number =20;
