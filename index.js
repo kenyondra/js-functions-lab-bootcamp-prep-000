@@ -3,7 +3,7 @@
 let name ='you'
 let holiday ='Independence Day'
 let number =20;
-let 
+let mother ='Mother's Day
 function happyHolidays(){
   return "Happy holidays!"
 }  
